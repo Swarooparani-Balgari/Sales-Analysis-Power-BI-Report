@@ -13,10 +13,10 @@ Analyze sales data to evaluate regional performance, category trends, customer c
 - KPI-based performance summary
 
 ### Key Insights
-- Certain regions generate high sales but comparatively lower profit margins
-- Technology category contributes the highest sales compared to others
-- Sales show an increasing trend across years
-- A small set of customers contributes significantly to total revenue
+- High-sales regions do not always translate to high profit margins, indicating pricing or cost inefficiencies.
+- Technology category is the primary revenue driver compared to Furniture and Office Supplies.
+- Year-over-year sales show consistent growth, indicating stable demand.
+- Revenue is concentrated among a small group of customers, highlighting dependency risk.
 
 ### KPIs Tracked
 - Total Sales
